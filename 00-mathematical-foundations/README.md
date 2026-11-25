@@ -15,7 +15,7 @@ Status: not assessed.
 9. Solve x+y=5 and 2x-y=1.
 10. A 640 W module is operated at rated power for 2 h. Calculate energy in kWh, stating the simplifying assumption.
 
-Record reasoning and confidence for each question. Do not mark complete until reviewed.
+Record reasoning and confidence for each question in the [diagnostic notebook](diagnostic.ipynb). Open it in local JupyterLab, edit the answer cells, save, and submit the notebook or commit for tutor review. Do not mark complete until reviewed.
 
 ## First applied case (after diagnostic)
 
