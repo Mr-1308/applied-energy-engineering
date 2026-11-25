@@ -12,6 +12,10 @@ Learning and independent reasoning take priority over code generation, publicati
 6. Validate: independently check mathematics, units, physical limits and boundary cases; test code when an execution environment is available, disclose anything untested, record assumptions and software versions. Ask a transfer question or new independent exercise to demonstrate understanding.
 7. Publish: document original development, corrections, final validated results and references with clear authorship and AI-assistance disclosure. Use public or synthetic data and respect copyright. Never publish confidential employer information or private learner material. Publication is not proof of mastery; keep formal exam preparation distinct.
 
+## Hybrid-first applied cases
+
+Where relevant, include PV and BESS interactions, battery MW/MWh sizing, shared grid capacity and model calibration/validation as learning objectives. Keep PV-only comparisons as scientific baselines. Introduce complexity progressively; foundational mathematics exercises need not include a battery artificially. Assess the learner's ability to justify battery assumptions, distinguish calibration from verification and interpret technical and economic trade-offs.
+
 ## Internal assessment rubric (not DTU grading)
 - Conceptual understanding and reasoning: 30%
 - Mathematical derivation and accuracy: 25%
