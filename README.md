@@ -1,1 +1,31 @@
-# applied-energy-engineering
+# Applied Mathematics for Renewable Energy Engineering
+
+An independent self-study project connecting university-level mathematics to photovoltaic systems, battery energy storage and electrical power engineering.
+
+**Objective:** Prepare for DTU Mathematics 1a (01003) while developing reproducible engineering models and documenting the learning process. This is not an official DTU programme, qualification or affiliation.
+
+## Study framework
+
+- [Curriculum and applied cases](CURRICULUM.md)
+- [Learning progress](PROGRESS.md)
+- [References](REFERENCES.md)
+- [Module 00 — mathematical foundations](00-mathematical-foundations/README.md)
+
+## Method
+
+1. Study theory and definitions from the source.
+2. Solve mathematical exercises manually and justify each step.
+3. Apply the concepts to an original PV, BESS or electrical engineering problem.
+4. Implement and verify the solution using Python (SymPy, NumPy, SciPy or pvlib as appropriate).
+5. Record assumptions, units, results, limitations and corrections.
+6. Complete independent exam-style practice before marking a topic mastered.
+
+The suggested cadence is 5–6 hours per week, adjusted after the initial diagnostic. Mathematical exam preparation remains distinct from engineering applications.
+
+## Reproducibility and integrity
+
+Use public or synthetic inputs only. Do not publish employer data, internal project drawings, proprietary calculations, restricted course material or copied textbook solutions. Link to original learning resources rather than redistributing them. AI-assisted explanations and code are reviewed by the learner; progress reflects demonstrated understanding, not generated content.
+
+## Status
+
+Project initiated 25 November 2026. Diagnostic assessment and environment setup pending.
