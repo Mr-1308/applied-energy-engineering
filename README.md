@@ -6,6 +6,8 @@ An independent self-study project connecting university-level mathematics to pho
 
 ## Study framework
 
+**[Open the free learning library](learning-library/README.md)** — original lessons, worked examples and editable Jupyter notebooks.
+
 - [Curriculum and applied cases](CURRICULUM.md)
 - [Learning progress](PROGRESS.md)
 - [Teaching and assessment protocol](TEACHING_PROTOCOL.md)
