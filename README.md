@@ -24,6 +24,10 @@ An independent self-study project connecting university-level mathematics to pho
 
 The suggested cadence is 5–6 hours per week, adjusted after the initial diagnostic. Mathematical exam preparation remains distinct from engineering applications.
 
+## Hybrid-first engineering approach
+
+Reflecting the learner's utility-scale development experience, treat PV+BESS co-design as the default applied case whenever technically relevant. Retain PV-only baselines and test whether storage is technically and economically justified, rather than assuming every PV project requires it. Study battery power and energy sizing, duration, usable capacity, efficiency, degradation, dispatch, model calibration and validation together with PV design and shared grid constraints.
+
 ## Development environment
 
 JupyterLab is the primary local learning environment. PVlib produces PV generation time series; PyPSA and Linopy model energy-system operation and optimisation. Record package and solver versions for reproducibility.
