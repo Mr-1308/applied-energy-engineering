@@ -29,3 +29,4 @@ For each module: manual derivations, independently solved exercises, reproducibl
 | Date | Activity | Evidence | Next step |
 |---|---|---|---|
 | 2026-11-25 | Repository and roadmap initiated | Project documentation | Diagnostic assessment |
+| 2026-11-25 | PyPSA track planned; no assessment completed | PYPSA_TRACK.md | Complete mathematics diagnostic and relevant prerequisites |
