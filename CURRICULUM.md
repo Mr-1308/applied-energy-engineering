@@ -23,3 +23,7 @@ Proposed sequence aligned with the Mathematics 1a topics discussed during planni
 ## Weekly routine
 
 45 minutes each weekday: theory, manual exercises, PV textbook, programming, applied exercise. Weekend: two hours of validation and documentation. Adapt to diagnostic results rather than advancing by calendar alone.
+
+## Parallel applied track: PyPSA
+
+See [PYPSA_TRACK.md](PYPSA_TRACK.md) for staged power-system modelling, storage and optimisation exercises. Begin after the relevant mathematics prerequisites; do not replace or delay independent DTU examination preparation.
