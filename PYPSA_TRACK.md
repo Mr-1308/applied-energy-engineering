@@ -20,6 +20,12 @@ Linear programming, energy economics and power-flow modelling are supplemental s
 
 Compare a 15 MW active-power export limit with PV-only and PV+BESS cases. Generate PV AC availability with pvlib; document weather source, system assumptions, conversion and loss boundaries. Use PyPSA for hourly dispatch, storage efficiency, energy capacity, charging limits and shared export constraints. Define import permissions and costs explicitly, avoid double-counting inverter losses, distinguish MW from MWh, and specify initial and terminal state of charge. Compare 2-hour and 4-hour storage at equal battery power, then optionally optimise capacity. Verify energy balance, export and SOC limits, curtailment, solver termination and net revenues (with explicit tariff/price assumptions). Perfect-foresight results are a benchmark, not a guaranteed achievable outcome. This simplified model does not establish AC apparent-power limits, reactive-power compliance, protection settings or grid-code compliance.
 
+## BESS sizing, calibration and validation
+
+For hybrid cases, distinguish installed DC nameplate energy, usable energy, AC deliverable energy, PCS active/apparent power and POC limits. Study SOC windows, C-rate, charge/discharge efficiencies, auxiliary consumption, temperature derating and degradation over project life. Compare power and duration independently; use 2 h and 4 h as starting scenarios, not universal design requirements. Include grid charging permissions, export/import limits, curtailment recovery and dispatch economics.
+
+Calibration means estimating or adjusting model parameters using documented manufacturer data or public measured datasets. Validate against independent observations where possible, report errors (e.g. MAE/RMSE and bias), check energy conservation and test sensitivity to uncertain parameters. Synthetic scenarios without measured data are verification/sensitivity exercises, not empirical calibration. Avoid exposing proprietary project or supplier information. Separate battery sizing and dispatch optimisation from detailed electrical safety, protection and grid-code compliance checks.
+
 ## Local environment
 
 Use the existing energy-engineering environment with JupyterLab. Install PyPSA, Linopy and HiGHS; verify the active kernel, imported versions and solver availability. Record tested versions per notebook. See https://docs.pypsa.org/stable/ and https://docs.pypsa.org/latest/home/installation/.
