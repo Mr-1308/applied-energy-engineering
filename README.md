@@ -8,6 +8,7 @@ An independent self-study project connecting university-level mathematics to pho
 
 - [Curriculum and applied cases](CURRICULUM.md)
 - [Learning progress](PROGRESS.md)
+- [Teaching and assessment protocol](TEACHING_PROTOCOL.md)
 - [References](REFERENCES.md)
 - [Module 00 — mathematical foundations](00-mathematical-foundations/README.md)
 
