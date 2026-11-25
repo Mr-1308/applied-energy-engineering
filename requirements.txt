@@ -5,3 +5,6 @@ pandas
 matplotlib
 pvlib
 jupyterlab
+pypsa
+linopy
+highspy
