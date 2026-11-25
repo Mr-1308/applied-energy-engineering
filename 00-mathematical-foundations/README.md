@@ -2,6 +2,8 @@
 
 Status: not assessed.
 
+[Study material — Mathematics and Python foundations](../learning-library/00_mathematics_python_foundations.ipynb). Complete the diagnostic independently first where possible; if unfamiliar with a topic, record that and study the relevant lesson before reassessment.
+
 ## Diagnostic (solve manually, without AI or calculator first)
 
 1. Solve 3x - 7 = 11.
