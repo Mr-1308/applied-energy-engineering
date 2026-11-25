@@ -10,6 +10,7 @@ An independent self-study project connecting university-level mathematics to pho
 - [Learning progress](PROGRESS.md)
 - [Teaching and assessment protocol](TEACHING_PROTOCOL.md)
 - [References](REFERENCES.md)
+- [PyPSA power-system modelling and optimisation track](PYPSA_TRACK.md)
 - [Module 00 — mathematical foundations](00-mathematical-foundations/README.md)
 
 ## Method
@@ -17,11 +18,15 @@ An independent self-study project connecting university-level mathematics to pho
 1. Study theory and definitions from the source.
 2. Solve mathematical exercises manually and justify each step.
 3. Apply the concepts to an original PV, BESS or electrical engineering problem.
-4. Implement and verify the solution using Python (SymPy, NumPy, SciPy or pvlib as appropriate).
+4. Implement and verify the solution using Python (SymPy, NumPy, SciPy, pvlib, PyPSA or Linopy as appropriate).
 5. Record assumptions, units, results, limitations and corrections.
 6. Complete independent exam-style practice before marking a topic mastered.
 
 The suggested cadence is 5–6 hours per week, adjusted after the initial diagnostic. Mathematical exam preparation remains distinct from engineering applications.
+
+## Development environment
+
+JupyterLab is the primary local learning environment. PVlib produces PV generation time series; PyPSA and Linopy model energy-system operation and optimisation. Record package and solver versions for reproducibility.
 
 ## Reproducibility and integrity
 
